@@ -20,7 +20,7 @@ This project involved using **Splunk Cloud** to simulate a real-world log analys
 
 ## 📎 Attached File
 
-`splunk_vinicius.png`: Screenshot showing extracted log events from the search interface in Splunk.
+[Splunk](splunk_vinicius.png) - Screenshot showing extracted log events from the search interface in Splunk.
 
 ---
 
